@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Github User App</string>
+    <string name="name_user">Nama Akun</string>
+    <string name="user_name">Username</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="fl">Followers : 100</string>
+
+    <string-array name="data_name">
+        <item>Mutsanna Qoid Al\'am</item>
+        <item>Rafli Maulana</item>
+        <item>Alif Ananda Fachrudin</item>
+        <item>Jaenulatif Pudin</item>
+        <item>Nia Agustina Purwitasari</item>
+        <item>Wisnu Gufa Destiawan</item>
+        <item>Fajar Erick</item>
+        <item>Fachri Alviansyah</item>
+        <item>Hendra Paijo</item>
+        <item>Rio Kusuma Wardana</item>
+        <item>Winda Nurlayla</item>
+        <item>Pak Yanto</item>
+        <item>Yustina Sri Suharini</item>
+        <item>Adinda Nurizqi Ahlan</item>
+        <item>Daeng Web</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/mutsanna</item>
+        <item>@drawable/rafli</item>
+        <item>@drawable/alifananda</item>
+        <item>@drawable/jaenulatif</item>
+        <item>@drawable/nia</item>
+        <item>@drawable/wisnu</item>
+        <item>@drawable/kiting</item>
+        <item>@drawable/pacul</item>
+        <item>@drawable/paijo</item>
+        <item>@drawable/rio</item>
+        <item>@drawable/winda</item>
+        <item>@drawable/yanto</item>
+        <item>@drawable/yustin</item>
+        <item>@drawable/adinda</item>
+        <item>@drawable/daengweb</item>
+    </array>
+
+    <string-array name="username">
+        <item>mutsanna</item>
+        <item>raflimaou</item>
+        <item>aliffachruddin</item>
+        <item>jaenulatif</item>
+        <item>niaaaaa</item>
+        <item>wisnugufad</item>
+        <item>kitingelektro</item>
+        <item>fachriispacul</item>
+        <item>paijoselaludisini</item>
+        <item>rioksmwt</item>
+        <item>windaaaa</item>
+        <item>yantoiskuproy</item>
+        <item>yusteenss</item>
+        <item>pengok99</item>
+        <item>daengweb</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>20</item>
+        <item>30</item>
+        <item>20</item>
+        <item>34</item>
+        <item>23</item>
+        <item>10</item>
+        <item>5</item>
+        <item>10</item>
+        <item>100</item>
+        <item>32</item>
+        <item>10</item>
+        <item>2</item>
+        <item>22</item>
+        <item>11</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>10</item>
+        <item>2</item>
+        <item>8</item>
+        <item>11</item>
+        <item>22</item>
+        <item>40</item>
+        <item>100</item>
+        <item>20</item>
+        <item>1</item>
+        <item>3</item>
+        <item>40</item>
+        <item>2</item>
+        <item>100</item>
+        <item>0</item>
+        <item>240</item>
+    </string-array>
+
+
+    <string-array name="location">
+        <item>Kabupaten Tangerang</item>
+        <item>Kabupaten Tangerang</item>
+        <item>Tangerang Selatan</item>
+        <item>Tangerang Selatan</item>
+        <item>Tangerang selatan</item>
+        <item>Gunung Sindur</item>
+        <item>Tangerang Kota</item>
+        <item>Jakarta Utara</item>
+        <item>Kabupaten Tangerang</item>
+        <item>Tangerang Selatan</item>
+        <item>Tangerang Selatan</item>
+        <item>Tangerang Selatan</item>
+        <item>Jakarta Selatan</item>
+        <item>Tangerang Selatan</item>
+        <item>Makasar</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Citra Utama Madani</item>
+        <item>Workshop HMIF</item>
+        <item>Nuadu</item>
+        <item>Workshop HMIF</item>
+        <item>HMIF</item>
+        <item>Citra Utama Madani</item>
+        <item>Workshop HME</item>
+        <item>HMIF</item>
+        <item>BUS Mania</item>
+        <item>HMIF</item>
+        <item>HMIF</item>
+        <item>Workshop HMIF</item>
+        <item>Institut Teknologi Indonesia</item>
+        <item>Nuadu</item>
+        <item>Sehat Sejahtera</item>
+    </string-array>
+
+    <string-array name="repo">
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+        <item>https://github.com/Mutsanna/CompanyProfileLV</item>
+    </string-array>
+</resources>
